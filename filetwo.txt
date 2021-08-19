@@ -1,0 +1,6 @@
+second file
+<<<<<<< HEAD
+changes in the branch merge - branch
+=======
+to create conflict
+>>>>>>> 134df37 (conflict)
